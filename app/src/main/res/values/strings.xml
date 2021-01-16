@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetDataIntent</string>
+    <string name="button1">goto</string>
+    <string name="button2">back</string>
+    <string name="titleitext">Alert Title</string>
+    <string name="messagetext">Do you want to exit?</string>
+</resources>
